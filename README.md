@@ -1,7 +1,8 @@
 # 🧠 South Asian Name Classification Model
 
-A modern, research-driven **Natural Language Processing (NLP)** system built to identify individuals of **South Asian origin** from their names alone.  
-This project enables more inclusive, culturally-aware tools—like a searchable database of South Asian mental-health providers—to be built on real, data-backed foundations.
+A modern, research-driven **Natural Language Processing (NLP)** model built to identify individuals of **South Asian origin** from their names alone.  
+
+This project enables more inclusive, culturally-aware tools—like a [searchable database of South Asian mental-health providers](https://findsouthasianmhc.org/)—to be built on real, data-backed foundations.
 
 ---
 
