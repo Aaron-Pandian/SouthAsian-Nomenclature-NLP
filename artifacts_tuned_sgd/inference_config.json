@@ -1,0 +1,22 @@
+{
+  "threshold": 0.8443938901527462,
+  "policy": "r_at_precision_0.90",
+  "abstain_band": [
+    0.7443938901527463,
+    0.9443938901527462
+  ],
+  "best_params": {
+    "full": {
+      "alpha": 1e-05,
+      "l1_ratio": 0.0
+    },
+    "first": {
+      "alpha": 1e-05,
+      "l1_ratio": 0.0
+    },
+    "last": {
+      "alpha": 1e-05,
+      "l1_ratio": 0.0
+    }
+  }
+}
