@@ -1,0 +1,30 @@
+{
+  "input_rows": 36017,
+  "non_blank_rows_scored": 36017,
+  "skipped_blank_names": 0,
+  "operating_params": {
+    "threshold": 0.5089768163598059,
+    "abstain_low": 0.4089768163598059,
+    "abstain_high": 0.6089768163598058
+  },
+  "decision_breakdown": {
+    "sa": {
+      "count": 235,
+      "percent": 0.652
+    },
+    "non_sa": {
+      "count": 34874,
+      "percent": 96.826
+    },
+    "abstain": {
+      "count": 908,
+      "percent": 2.521
+    }
+  },
+  "hard_label_sa": {
+    "count": 601,
+    "of_non_blank": 36017,
+    "percent": 1.669
+  },
+  "output_csv": "/Users/aaronpandian/Documents/Work/MHISA/Name Algorithm/providers_scored.csv"
+}
