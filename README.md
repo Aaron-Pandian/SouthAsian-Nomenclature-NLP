@@ -52,7 +52,8 @@ Your project should look like this:
 ---
 
 ### ▶️ Example: Running the model
-You can run the classifier on any CSV file containing a column of names.  
+You can run the classifier on any CSV file containing a column of names (the names must be a single column, if names are
+seperated into first_name and last_name, add a clolumn and use =concatenate(A1, " ", B1), delete column after run).  
 Using the provided `test_providers.csv`:
 
 ```bash
